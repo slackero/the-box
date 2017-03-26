@@ -1,0 +1,537 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-21 20:32+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: sidebar.php:19
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:26
+msgid "Meta"
+msgstr ""
+
+#: index.php:39 archive.php:86 search.php:35
+msgid "&larr;"
+msgstr ""
+
+#: index.php:40 archive.php:87 search.php:36
+msgid "&rarr;"
+msgstr ""
+
+#: footer.php:25
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:25
+#, php-format
+msgid "Powered by %s"
+msgstr ""
+
+#. Author URI of the theme
+#: footer.php:27
+msgid "http://www.designlabthemes.com/"
+msgstr ""
+
+#: footer.php:27
+#, php-format
+msgid "Theme by %s"
+msgstr ""
+
+#: single.php:20
+msgid "&laquo; <span>%title</span>"
+msgstr ""
+
+#: single.php:21
+msgid "<span>%title</span> &raquo;"
+msgstr ""
+
+#: header.php:29
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:52
+msgid "open menu"
+msgstr ""
+
+#. Name of the template
+msgid "No-Sidebar Page Template"
+msgstr ""
+
+#: image.php:24
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to "
+"full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return "
+"to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr ""
+
+#: image.php:41
+msgid "&larr; Previous"
+msgstr ""
+
+#: image.php:42
+msgid "Next &rarr;"
+msgstr ""
+
+#: image.php:93 template-parts/content-page.php:22
+#: template-parts/content-single.php:46 template-parts/content-quote.php:18
+#: template-parts/content.php:54 template-parts/content-aside.php:18
+msgid "Pages:"
+msgstr ""
+
+#: image.php:99
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: image.php:101
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-"
+"link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">"
+"Trackback URL</a>."
+msgstr ""
+
+#: image.php:103
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" "
+"href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#: image.php:105
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#: image.php:107 template-parts/content-page.php:39
+#: template-parts/content-single.php:81 template-parts/content.php:115
+msgid "Edit"
+msgstr ""
+
+#: searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search"
+msgstr ""
+
+#: searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: functions.php:44
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:45
+msgid "Footer Menu"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Open Sans, translate this to 'off'. Do not translate into your own language.
+#: functions.php:83
+msgctxt "Source Sans Pro: on or off"
+msgid "on"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Roboto, translate this to 'off'. Do not translate into your own language.
+#: functions.php:88
+msgctxt "Oxygen: on or off"
+msgid "on"
+msgstr ""
+
+#. To add an additional character subset specific to your language, translate this to 'greek', 'cyrillic', 'devanagari' or 'vietnamese'. Do not translate into your own language.
+#: functions.php:93
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: functions.php:162
+msgid "Sidebar Primary"
+msgstr ""
+
+#: functions.php:170
+msgid "Footer"
+msgstr ""
+
+#: functions.php:365
+msgid "Read More"
+msgstr ""
+
+#: functions.php:416
+#, php-format
+msgid ""
+"<strong>Upgrade to The Box Plus</strong> version to get extended "
+"functionality and advanced customization options: %1$s"
+msgstr ""
+
+#: functions.php:421
+msgid "Close and don't show this message again"
+msgstr ""
+
+#: archive.php:23
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: archive.php:26
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: archive.php:33
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: archive.php:41
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:44
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:47
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:50
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#: comments.php:32
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:39 comments.php:59
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:40 comments.php:60
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:41 comments.php:61
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr ""
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:20
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:27
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:26 template-parts/content-single.php:50
+#: template-parts/content-quote.php:22 template-parts/content.php:58
+#: template-parts/content-aside.php:22 inc/customizer.php:184
+msgid "Page"
+msgstr ""
+
+#: template-parts/content-page.php:36 template-parts/content.php:110
+msgid "<span class=\"icon-font icon-comment-alt\"></span> Leave a comment"
+msgstr ""
+
+#: template-parts/content-page.php:36 template-parts/content.php:110
+msgid "<span class=\"icon-font icon-comment\"></span> 1 Comment"
+msgstr ""
+
+#: template-parts/content-page.php:36 template-parts/content.php:110
+msgid "<span class=\"icon-font icon-comments-alt\"></span> % Comments"
+msgstr ""
+
+#: template-parts/content-single.php:27
+msgid "Posted by"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#: template-parts/content-single.php:60 template-parts/content-single.php:72
+#: template-parts/content.php:84 template-parts/content.php:96
+msgid ", "
+msgstr ""
+
+#: template-parts/content-single.php:65 template-parts/content-single.php:77
+#: template-parts/content.php:89 template-parts/content.php:101
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: template-parts/content-quote.php:31 template-parts/content.php:52
+#: template-parts/content-aside.php:31
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:17
+#, php-format
+msgid ""
+"Posted on <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time "
+"class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a><span class=\"byline\">"
+" by <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" "
+"title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr ""
+
+#: inc/template-tags.php:23
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: inc/template-tags.php:42
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:42 inc/template-tags.php:65
+msgid "(Edit)"
+msgstr ""
+
+#: inc/template-tags.php:52
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: inc/template-tags.php:55
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:63
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/customizer.php:62
+msgid "Try The Box Plus &rarr;"
+msgstr ""
+
+#: inc/customizer.php:66
+msgid "Rate This Theme &rarr;"
+msgstr ""
+
+#: inc/customizer.php:70
+msgid "Documentation &rarr;"
+msgstr ""
+
+#: inc/customizer.php:94
+msgid "Theme Settings"
+msgstr ""
+
+#: inc/customizer.php:100
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer.php:114
+msgid "Layout Options"
+msgstr ""
+
+#: inc/customizer.php:119
+msgid "Sidebar Right"
+msgstr ""
+
+#: inc/customizer.php:120
+msgid "Sidebar Left"
+msgstr ""
+
+#: inc/customizer.php:121
+msgid "One Column"
+msgstr ""
+
+#: inc/customizer.php:122
+msgid "2 Columns + Sidebar Right"
+msgstr ""
+
+#: inc/customizer.php:133
+msgid "Post length"
+msgstr ""
+
+#: inc/customizer.php:139
+msgid "Excerpt"
+msgstr ""
+
+#: inc/customizer.php:140
+msgid "Full Content"
+msgstr ""
+
+#: inc/customizer.php:153
+msgid "Display Post Thumbnails"
+msgstr ""
+
+#: inc/customizer.php:161
+msgid "Post"
+msgstr ""
+
+#: inc/customizer.php:175 inc/customizer.php:198
+msgid "Enable Featured Image"
+msgstr ""
+
+#: inc/customizer.php:176
+msgid "Display Featured Image on Single Posts."
+msgstr ""
+
+#: inc/customizer.php:207
+msgid "Social Links"
+msgstr ""
+
+#: inc/customizer.php:209
+msgid "Paste here your Social Links."
+msgstr ""
+
+#: inc/customizer.php:240
+msgid "Show the RSS Feed icon"
+msgstr ""
+
+#: inc/customizer.php:254
+msgid "Facebook Url"
+msgstr ""
+
+#: inc/customizer.php:268
+msgid "Twitter Url"
+msgstr ""
+
+#: inc/customizer.php:282
+msgid "Google + Url"
+msgstr ""
+
+#: inc/customizer.php:296
+msgid "Linkedin Url"
+msgstr ""
+
+#: inc/customizer.php:310
+msgid "Instagram Url"
+msgstr ""
+
+#: inc/customizer.php:324
+msgid "Youtube Url"
+msgstr ""
+
+#: inc/customizer.php:338
+msgid "Pinterest Url"
+msgstr ""
+
+#: inc/customizer.php:352
+msgid "StumbleUpon Url"
+msgstr ""
+
+#: inc/customizer.php:366
+msgid "Flickr Url"
+msgstr ""
+
+#: inc/customizer.php:380
+msgid "Tumblr Url"
+msgstr ""
+
+#: inc/customizer.php:394
+msgid "Medium Url"
+msgstr ""
+
+#: inc/customizer.php:408
+msgid "Github Url"
+msgstr ""
+
+#: inc/customizer.php:422
+msgid "Xing Url"
+msgstr ""
+
+#: inc/customizer.php:430
+msgid "The Box Links"
+msgstr ""
+
+#: inc/customizer.php:453
+msgid "Accent Color"
+msgstr ""
+
+#: inc/customizer.php:467
+msgid "Footer Background"
+msgstr ""
+
+#: inc/customize-pro/class-customize.php:76
+msgid "The Box Plus"
+msgstr ""
+
+#: inc/customize-pro/class-customize.php:77
+msgid "View The Box Plus"
+msgstr ""
+
+#. Name of the theme
+msgid "The Box"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Simple and minimal two columns Theme: custom header, custom background, "
+"custom colors, post thumbnails, post formats."
+msgstr ""
+
+#. URI of the theme
+msgid "https://www.designlabthemes.com/the-box-wordpress-theme/"
+msgstr ""
+
+#. Author of the theme
+msgid "Design Lab"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.designlabthemes.com/"
+msgstr ""
